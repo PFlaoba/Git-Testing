@@ -7,3 +7,7 @@ Faker vs. LPL
 abcd
 
 666
+
+苹果
+
+橘子
